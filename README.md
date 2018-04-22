@@ -1,2 +1,0 @@
-# faq
-Preguntas Frecuentes

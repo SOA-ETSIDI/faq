@@ -1,0 +1,152 @@
+#+TITLE: Preguntas Frecuentes
+
+#+AUTHOR: Escuela Técnica Superior de Ingeniería y Diseño Industrial {{{NEWLINE}}} Universidad Politécnica de Madrid
+
+#+DATE: 
+
+#+SETUPFILE: config.org
+
+#+TOC: headlines 2
+
+
+* General
+  :PROPERTIES:
+  :CUSTOM_ID: general
+  :END:
+
+** ¿Dónde está el calendario de la ETSIDI?
+   :PROPERTIES:
+   :CUSTOM_ID: calendario
+   :END:
+
+El calendario de la ETSIDI está disponible en PDF en diferentes formatos en este enlace: 
+
+http://www.etsidi.upm.es/Estudiantes/AgendaAcademica/AACalendario.
+
+Está también disponible en formato [[https://es.wikipedia.org/wiki/ICalendar][iCalendar]] para que lo añadas a tu aplicación de calendario: [[http://programas.etsidi.upm.es/webdav/cal/ETSIDI_Grado.ics][Grado]] y [[http://programas.etsidi.upm.es/webdav/cal/ETSIDI_Master.ics][Máster]].
+
+** ¿Dónde puedo obtener los horarios de clase?
+   :PROPERTIES:
+   :CUSTOM_ID: horarios
+   :END:
+
+Los horarios de clase están disponibles en este enlace: 
+
+http://www.etsidi.upm.es/Estudiantes/AgendaAcademica/AAHorarioClases
+
+** ¿Dónde está el calendario de exámenes finales?
+   :PROPERTIES:
+   :CUSTOM_ID: examenes
+   :END:
+
+El calendario de exámenes finales está disponible en este enlace: 
+
+http://programas.etsidi.upm.es/webdav/cal/examenes.html. 
+
+También está en formato PDF en este enlace: 
+
+http://www.etsidi.upm.es/Estudiantes/AgendaAcademica/AAFechaExamenes
+
+** ¿Qué significan los códigos numéricos de cada asignatura?
+   :PROPERTIES:
+   :CUSTOM_ID: codigos
+   :END:
+
+Cada asignatura de la UPM tiene un código único que sirve para identificar la Escuela y, en general, la titulación. Las dos primeras cifras son propias de la Escuela, y a la ETSIDI le corresponde el número 56. En la ETSIDI, la siguiente cifra indica si se trata de un grado (5) o un máster (3). En el caso de los grados, las últimas tres cifras indican la titulación y el semestre. La correspondencia entre titulación y cifra es la siguiente:
+
+- Ing. Electrónica Industrial y Automática - IA - 1
+- Ing. Eléctrica - IE - 2
+- Ing. Mecánica - IM - 3
+- Ing. Química - IQ - 4
+- Ing. en Diseño Industrial y Desarrollo de Producto - DD - 5
+
+Por ejemplo, el código 565000424 indica que es una asignatura de la ETSIDI (56) del grado (5) IQ (4) impartida en el segundo semestre (2). 
+
+** ¿Dónde están las Guías de la Asignatura?
+   :PROPERTIES:
+   :CUSTOM_ID: ga
+   :END:
+
+Las Guías de Asignatura (GAs) están disponibles en la página dedicada a cada titulación ([[http://www.etsidi.upm.es/Estudiantes/EstudiosTitulaciones/ETTitulosGrado/ETTitulosOficialesGrado][Grado]] y [[http://www.etsidi.upm.es/Estudiantes/EstudiosTitulaciones/ETTitulosPostgrado/ETTitulosOficialesMaster][Máster]]).
+
+Todos los PDFs de las GAs están accesibles en esta URL: https://www.upm.es/comun_gauss/publico/guias. Cada Guía de Asignatura tiene su propia URL, que se construye a partir de su código: 
+
+#+BEGIN_EXAMPLE
+[CURSO]/[SEMESTRE]S/GA_56[CODIGO_TITULACION]_[CODIGO_ASIGNATURA]_[SEMESTRE]S_[CURSO].pdf
+#+END_EXAMPLE
+
+
+Utilizando el ejemplo anterior, la guía del curso 2017-18 de la asignatura 565000424 (grado IQ, segundo semestre) está disponible en:
+
+https://www.upm.es/comun_gauss/publico/guias/2017-18/2S/GA_56IQ_565000424_2S_2017-18.pdf
+
+** Quisiera conocer los resultados de una asignatura. ¿Dónde puedo consultarlos?
+   :PROPERTIES:
+   :CUSTOM_ID: ia
+   :END:
+
+Los anexos de los informes de asignatura (IA) contienen los resultados de los últimos cursos. Están disponibles en una URL similar a la de la GA correspondiente. La dirección raíz es https://www.upm.es/comun_gauss/publico/anexos_IA/, y la estructura es:
+
+#+BEGIN_EXAMPLE
+[CURSO]/[SEMESTRE]S/IA_anexos_56[CODIGO_TITULACION]_[CODIGO_ASIGNATURA]_[SEMESTRE]S_[CURSO]_1.pdf
+#+END_EXAMPLE
+
+Continuando con el ejemplo anterior:
+
+https://www.upm.es/comun_gauss/publico/anexos_IA/2016-17/2S/IA_anexos_56IQ_565000424_2S_2016-17_1.pdf
+
+* Profesores
+  :PROPERTIES:
+  :CUSTOM_ID: profesores
+  :END:
+
+** Necesito reservar un espacio para actividades docentes. ¿Cómo lo hago?
+   :PROPERTIES:
+   :CUSTOM_ID: aulas
+   :END:
+
+http://programas.etsidi.upm.es/webdav/aulas/
+
+** Quiero proponer un Trabajo de Fin de de Grado. ¿Qué debo hacer?
+   :PROPERTIES:
+   :CUSTOM_ID: tfg_profesor
+   :END:
+
+https://documentos.etsidi.upm.es/tfgs/login
+
+
+** Quiero proponer un Trabajo de Fin de de Máster. ¿Qué debo hacer?
+   :PROPERTIES:
+   :CUSTOM_ID: tfm_profesor
+   :END:
+
+
+https://documentos.etsidi.upm.es/tfms/login
+
+
+* Alumnos
+  :PROPERTIES:
+  :CUSTOM_ID: alumnos
+  :END:
+
+** ¿Cómo puedo saber los horarios de tutoría de un profesor?
+   :PROPERTIES:
+   :CUSTOM_ID: tutorias
+   :END:
+
+http://programas.etsidi.upm.es/SOA/tutorias/
+
+
+** Quiero comenzar a realizar el Trabajo de Fin de Grado. ¿Qué debo hacer?
+   :PROPERTIES:
+   :CUSTOM_ID: tfg_alumno
+   :END:
+
+https://documentos.etsidi.upm.es/tfgs/login
+
+** Quiero comenzar a realizar el Trabajo de Fin de Máster. ¿Qué debo hacer?
+   :PROPERTIES:
+   :CUSTOM_ID: tfm_alumno
+   :END:
+
+https://documentos.etsidi.upm.es/tfms/login
