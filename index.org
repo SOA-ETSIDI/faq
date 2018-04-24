@@ -13,7 +13,16 @@
   :PROPERTIES:
   :CUSTOM_ID: general
   :END:
+** ¿Qué es un ECTS?
+ECTS es la sigla correspondiente a European Credit Transfer System (Sistema Europeo de Transferencia de Créditos). Es el estándar adoptado por todas las universidades del Espacio Europeo de Educación Superior (EEES) para garantizar la homogeneidad y la calidad de los estudios que ofrecen. El ECTS se basa en la convención de que 60 créditos miden la *carga de trabajo de un estudiante* a tiempo completo durante un curso académico. En el caso de la Universidad Politécnica se emplea una correspondencia de 26 o 27 horas por 1 ECTS, incluyendo las horas de clase teóricas y practicas, las horas de estudio, seminarios, realización de trabajos individuales o en grupo, de prácticas o proyectos, resolución de ejercicios, búsqueda de información, prácticas, exámenes, etc. 
 
+Un grado se conforman con 240 ECTS en 4 años de 60 ECTS (8 semestres de 30 ECTS). Por tanto, un alumno de grado tendrá una carga de trabajo estimada en 1620 horas anuales. 
+
+En la ETSIDI, en términos generales, se asignan a cada asignatura 10 horas lectivas por cada ECTS. De esta forma, una asignatura de 4.5 ECTS tendrá 45 horas totales de docencia presencial (3 horas por semana considerando un semestre de genérico de 15 semanas lectivas).
+
+El ECTS también se puede emplear para cuantificar la dedicación docente del profesor, tal y como hace el [[http://www.upm.es/sfs/SedeUPM/Normativa%2520UPM/Actividad%2520Docente.pdf][Modelo de Estimación de la Actividad de los Departamentos de la Universidad Politécnica de Madrid]], que contabiliza una actividad lectiva presencial del profesor de entre 8 a 12 horas por cada ECTS.
+
+** ¿Qué significa la evaluación continua?
 ** ¿Dónde está el calendario de la ETSIDI?
    :PROPERTIES:
    :CUSTOM_ID: calendario
@@ -33,6 +42,10 @@ Está también disponible en formato [[https://es.wikipedia.org/wiki/ICalendar][
 Los horarios de clase están disponibles en este enlace: 
 
 http://www.etsidi.upm.es/Estudiantes/AgendaAcademica/AAHorarioClases
+
+Como se indica en esta página, existe un buscador que te permite obtener toda la información de horarios, profesorado y aulas con flexibilidad: 
+
+http://programas.etsidi.upm.es/SOA/buscador/
 
 ** ¿Dónde está el calendario de exámenes finales?
    :PROPERTIES:
@@ -80,7 +93,7 @@ Utilizando el ejemplo anterior, la guía del curso 2017-18 de la asignatura 5650
 
 https://www.upm.es/comun_gauss/publico/guias/2017-18/2S/GA_56IQ_565000424_2S_2017-18.pdf
 
-** Quisiera conocer los resultados de una asignatura. ¿Dónde puedo consultarlos?
+** Quisiera conocer el histórico de los resultados agregados de una asignatura. ¿Dónde puedo consultarlos?
    :PROPERTIES:
    :CUSTOM_ID: ia
    :END:
@@ -95,6 +108,7 @@ Continuando con el ejemplo anterior:
 
 https://www.upm.es/comun_gauss/publico/anexos_IA/2016-17/2S/IA_anexos_56IQ_565000424_2S_2016-17_1.pdf
 
+
 * Profesores
   :PROPERTIES:
   :CUSTOM_ID: profesores
@@ -105,14 +119,26 @@ https://www.upm.es/comun_gauss/publico/anexos_IA/2016-17/2S/IA_anexos_56IQ_56500
    :CUSTOM_ID: aulas
    :END:
 
+Primero debes consultar la asignación docente de aulas y las reservas existentes en el calendario publicado en la siguiente web:
+
 http://programas.etsidi.upm.es/webdav/aulas/
+
+A continuación, debes ponerte en contacto con la secretaría de Jefatura de Estudios para hacer la reserva que corresponda. Podrás comprobar el resultado en el calendario anterior.
 
 ** Quiero proponer un Trabajo de Fin de de Grado. ¿Qué debo hacer?
    :PROPERTIES:
    :CUSTOM_ID: tfg_profesor
    :END:
 
+Para hacer una propuesta de TFG debes rellenar el formulario disponible en la siguiente web, empleando tu usuario y contraseña de UPM:
+
 https://documentos.etsidi.upm.es/tfgs/login
+
+Las propuestas pueden ser Generales (TFG para ser desarrollado individualmente por un número indeterminado de estudiantes, en una o varias convocatorias) o Específicas (la temática a desarrollar se limita a un único TFG para un alumno).
+
+La propuesta será informada por el coordinador de TFG de la titulación que corresponda. Además, este coordinador asignará el tercer miembro del tribunal. A continuación, la propuesta será revisada y, en su caso, confirmada por el Director de Departamento. Todas las propuestas realizadas son revisadas en una reunión mensual de la Comisión Académica de TFG, compuesta por los cinco coordinadores de TFG y el Jefe de Estudios. Como resultado de esta reunión, se validan y publican las propuestas que no necesitan ninguna corrección. A partir de este momento, la propuesta está visible para los alumnos en la misma aplicación.
+
+*No olvides consultar la [[http://www.etsidi.upm.es/sfs/E.U.I.T.%2520Industrial/SECRETARIA%2520DE%2520ALUMNOS/ARTICULOS/Normativa%2520TFG.pdf][normativa de TFG de la ETSIDI]]*.
 
 
 ** Quiero proponer un Trabajo de Fin de de Máster. ¿Qué debo hacer?
@@ -120,8 +146,12 @@ https://documentos.etsidi.upm.es/tfgs/login
    :CUSTOM_ID: tfm_profesor
    :END:
 
+Para hacer una propuesta de TFG debes rellenar el formulario disponible en la siguiente web, empleando tu usuario y contraseña de UPM:
 
 https://documentos.etsidi.upm.es/tfms/login
+
+
+*No olvides consultar la [[http://www.etsidi.upm.es/sfs/E.U.I.T.%2520Industrial/SECRETARIA%2520DE%2520ALUMNOS/ARTICULOS/Normativa%2520TFG.pdf][normativa de TFM de la ETSIDI]]*.
 
 
 * Alumnos
@@ -129,13 +159,26 @@ https://documentos.etsidi.upm.es/tfms/login
   :CUSTOM_ID: alumnos
   :END:
 
+** Prefiero realizar la evaluación mediante examen final. ¿Qué debo hacer?
 ** ¿Cómo puedo saber los horarios de tutoría de un profesor?
    :PROPERTIES:
    :CUSTOM_ID: tutorias
    :END:
 
+Los horarios de tutoría del profesorado están disponibles en esta web:
+
 http://programas.etsidi.upm.es/SOA/tutorias/
 
+** No he podido asistir a un examen. ¿Qué puedo hacer? 
+   :PROPERTIES:
+   :CUSTOM_ID: art24_alumno
+   :END:
+
+En primer lugar, debe tratarse de una causa de fuerza mayor o asistencia a reuniones por representación estudiantil. En segundo lugar, la causa debe justificarse fehacientemente (certificado médico, etc.).
+
+Si se cumplen estas dos condiciones, debes dirigirte al coordinador de la asignatura si se trata de una prueba de evaluación continua, o al Jefe de Estudios en el caso de una prueba de evaluación final.
+
+Debes consultar lo indicado en el "Artículo 24. De los estudiantes que no puedan realizar el examen en la fecha prevista" de la [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%2520de%2520Alumnos/Informacion/Normativa/2017_18_NormativadeEvaluacion_CG%2520170525.pdf][normativa de evaluación de la UPM]].
 
 ** Quiero comenzar a realizar el Trabajo de Fin de Grado. ¿Qué debo hacer?
    :PROPERTIES:
@@ -150,3 +193,13 @@ https://documentos.etsidi.upm.es/tfgs/login
    :END:
 
 https://documentos.etsidi.upm.es/tfms/login
+
+** Quiero defender mi TFG en la próxima convocatoria. ¿Qué debo hacer?
+
+Debes cumplir dos condiciones:
+
+- El tutor del TFG debe dar el visto bueno a la finalización del TFG.
+- D
+** Soy futuro alumno de Máster, y tengo muchas dudas.
+
+http://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/preguntas_frecuentes
