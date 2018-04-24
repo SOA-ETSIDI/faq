@@ -18,7 +18,7 @@ ECTS es la sigla correspondiente a European Credit Transfer System (Sistema Euro
 
 Un grado se conforman con 240 ECTS en 4 años de 60 ECTS (8 semestres de 30 ECTS). Por tanto, un alumno de grado tendrá una carga de trabajo estimada en 1620 horas anuales. 
 
-En la ETSIDI, en términos generales, se asignan a cada asignatura 10 horas lectivas por cada ECTS. De esta forma, una asignatura de 4.5 ECTS tendrá 45 horas totales de docencia presencial (3 horas por semana considerando un semestre de genérico de 15 semanas lectivas).
+En la ETSIDI, en términos generales, se asignan a cada asignatura 10 horas lectivas por cada ECTS. De esta forma, una asignatura de 4.5 ECTS tendrá 45 horas totales de docencia presencial (3 horas por semana considerando un semestre genérico de 15 semanas lectivas).
 
 El ECTS también se puede emplear para cuantificar la dedicación docente del profesor, tal y como hace el [[http://www.upm.es/sfs/SedeUPM/Normativa%2520UPM/Actividad%2520Docente.pdf][Modelo de Estimación de la Actividad de los Departamentos de la Universidad Politécnica de Madrid]], que contabiliza una actividad lectiva presencial del profesor de entre 8 a 12 horas por cada ECTS.
 
