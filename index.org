@@ -219,8 +219,6 @@ La comunicación por escrito debe realizarse mediante el formulario disponible e
 
 *En la ETSIDI, el plazo fijado por Jefatura de Estudios es el 31 de octubre para asignaturas del primer semestre, y el 31 de marzo para asignaturas del segundo semestre.* 
 
-
-
 ** ¿Cómo puedo saber los horarios de tutoría de un profesor?
    :PROPERTIES:
    :CUSTOM_ID: tutorias
@@ -257,10 +255,25 @@ https://documentos.etsidi.upm.es/tfms/login
 
 ** Quiero defender mi TFG en la próxima convocatoria. ¿Qué debo hacer?
 
-Debes cumplir dos condiciones:
+Debes cumplir tres condiciones:
 
 - El tutor del TFG debe dar el visto bueno a la finalización del TFG.
-- D
+- Debes haber superado *todas* las asignaturas del plan de estudios.
+- Te has matriculado en la asignatura de TFG en tiempo y forma.
+
+Si cumples estas condiciones, debes depositar el TFG en la Secretaría
+Administrativa del Departamento al que pertenezca el tutor, en los
+plazos establecidos por la Subdirección de Ordenación Académica.
+
+A partir de la fecha de esta entrega deben pasar al menos 7 días
+hábiles antes de la defensa, de forma que el tribunal tenga tiempo
+suficiente para revisar el trabajo.
+
+El ejemplar del TFG entregado debe contener de forma explicita el
+visto bueno del tutor principal. Este documento deberá ajustarse a las
+normas de presentación básicas recogidas en el Anexo I de la [[http://www.etsidi.upm.es/sfs/E.U.I.T.%2520Industrial/SECRETARIA%2520DE%2520ALUMNOS/ARTICULOS/Normativa%2520TFG.pdf][normativa
+de TFGs de la ETSIDI]].
+
 ** Soy futuro alumno de Máster, y tengo muchas dudas.
 
 http://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/preguntas_frecuentes
