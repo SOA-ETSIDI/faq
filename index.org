@@ -203,6 +203,21 @@ medidas disciplinarias correspondientes.
 
 ** Prefiero realizar la evaluación mediante examen final. ¿Qué debo hacer?
 
+La normativa de evaluación de la UPM indica (artículo 13.2):
+
+#+BEGIN_QUOTE
+El estudiante que desee seguir el sistema de evaluación mediante sólo
+una prueba final, deberá comunicarlo por escrito al coordinador de la
+asignatura o, por delegación de este, a los profesores de la misma
+mediante el procedimiento, y en el plazo, que se fijen en la Guía de
+Aprendizaje de la asignatura o, si la Guía de Aprendizaje no lo
+fijase, según lo que determine la Jefatura de Estudios del Centro
+responsable de la titulación.
+#+END_QUOTE
+
+La comunicación por escrito debe realizarse mediante el formulario disponible en [[http://www.etsidi.upm.es/sfs/E.U.I.T.%2520Industrial/SECRETARIA%2520DE%2520ALUMNOS/ARTICULOS/solicitudevaluacionexamenfinal.pdf][este enlace]].
+
+*En la ETSIDI, el plazo fijado por Jefatura de Estudios es el 31 de octubre para asignaturas del primer semestre, y el 31 de marzo para asignaturas del segundo semestre.* 
 
 
 
