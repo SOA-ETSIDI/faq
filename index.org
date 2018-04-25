@@ -23,6 +23,35 @@ En la ETSIDI, en términos generales, se asignan a cada asignatura 10 horas lect
 El ECTS también se puede emplear para cuantificar la dedicación docente del profesor, tal y como hace el [[http://www.upm.es/sfs/SedeUPM/Normativa%2520UPM/Actividad%2520Docente.pdf][Modelo de Estimación de la Actividad de los Departamentos de la Universidad Politécnica de Madrid]], que contabiliza una actividad lectiva presencial del profesor de entre 8 a 12 horas por cada ECTS.
 
 ** ¿Qué significa la evaluación continua?
+Según la normativa de evaluación de la UPM, los sistemas de evaluación
+continua son:
+#+BEGIN_QUOTE
+un conjunto de pruebas y actividades de evaluación, que podrán incluir
+o no pruebas de evaluación globales al finalizar el periodo de
+docencia de las asignaturas, que estarán programadas a lo largo del
+periodo durante el que se desarrolle el proceso formativo vinculado a
+la asignatura y que deben permitir valorar el progreso de cada
+estudiante a lo largo de dicho periodo. 
+#+END_QUOTE
+
+Además, la normativa plantea que:
+
+#+BEGIN_QUOTE
+Las pruebas y actividades de evaluación deberán programarse de forma
+que sean viables con los recursos humanos y materiales disponibles
+para el desarrollo de la asignatura y no interfieran en la actividad
+programada de otras asignaturas ni descompensen la planificación de
+trabajo regular del estudiante.
+#+END_QUOTE
+
+*El sistema de evaluación continua es el método de evaluación por
+defecto que se emplea en todas las asignaturas*. El alumno tiene la
+posibilidad de renunciar a este método, y emplear en su lugar el
+método de evaluación mediante prueba final.
+
+La evaluación de las asignaturas en las convocatorias extraordinarias
+se realizará exclusivamente a través del sistema de una prueba final.
+
 ** ¿Dónde está el calendario de la ETSIDI?
    :PROPERTIES:
    :CUSTOM_ID: calendario
@@ -154,12 +183,29 @@ https://documentos.etsidi.upm.es/tfms/login
 *No olvides consultar la [[http://www.etsidi.upm.es/sfs/E.U.I.T.%2520Industrial/SECRETARIA%2520DE%2520ALUMNOS/ARTICULOS/Normativa%2520TFG.pdf][normativa de TFM de la ETSIDI]]*.
 
 
+** Unos alumnos han copiado en un examen. ¿Qué debo hacer?
+
+La normativa de evaluación de la UPM indica (artículo 12.6):
+
+#+BEGIN_QUOTE
+Ante la comprobación fehaciente de copia en una prueba de evaluación, ésta se calificará
+con la puntuación de cero al estudiante o estudiantes implicados. Si la comprobación se
+produce durante el desarrollo de la prueba, ésta se podrá interrumpir inmediatamente para
+el estudiante o estudiantes implicados. El Tribunal de la Asignatura o el Director del
+Departamento podrán elevar al Rector los hechos para que puedan tomarse, en su caso, las
+medidas disciplinarias correspondientes.
+#+END_QUOTE
+
 * Alumnos
   :PROPERTIES:
   :CUSTOM_ID: alumnos
   :END:
 
 ** Prefiero realizar la evaluación mediante examen final. ¿Qué debo hacer?
+
+
+
+
 ** ¿Cómo puedo saber los horarios de tutoría de un profesor?
    :PROPERTIES:
    :CUSTOM_ID: tutorias
